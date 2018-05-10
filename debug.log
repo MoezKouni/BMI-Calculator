@@ -1,0 +1,4 @@
+[0510/013532.187:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\temp\settings.dat: Accès refusé. (0x5)
+[0510/125929.868:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\temp\settings.dat: Accès refusé. (0x5)
+[0510/125930.201:ERROR:persistent_memory_allocator.cc(738)] Corruption detected in shared-memory segment.
+[0510/125930.208:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\temp\settings.dat: Accès refusé. (0x5)
